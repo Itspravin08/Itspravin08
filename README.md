@@ -37,10 +37,22 @@ I Have a strong interest in full-stack web development, Software development and
 
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pravin08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pravin08/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/its_pravin_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_pravin_official/" height="30" width="40" /></a>
+</a>
+<a href="https://www.linkedin.com/in/pravin08">
+  <img align="left" alt="Pravin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Itspravin08">
+  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/its_pravin_official/">
+  <img align="left" alt="Pravin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/pravin.chougale.374/">
+  <img align="left" alt="Pravin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 </p>
+<br><br>
+
 
 ![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itspravin08&show_icons=true&theme=highcontrast)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itspravin08&layout=compact)](https://github.com/Itspravin08/github-readme-stats)
