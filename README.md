@@ -69,6 +69,5 @@ I Have a strong interest in full-stack web development, Software development and
 </p>
 <br><br>
 
-
 ![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itspravin08&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itspravin08&layout=compact&theme=highcontrast)](https://github.com/Itspravin08/github-readme-stats)
