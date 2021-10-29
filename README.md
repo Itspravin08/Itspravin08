@@ -1,4 +1,4 @@
-<h1 align="center"> Hi.. I'm Pravin Chougale </h1>
+<h1> Hi.. I'm Pravin Chougale </h1>
 <h2>Know More About Me:</h2>
 
 - 🔭 I’m currently exploring ML 🚀.
