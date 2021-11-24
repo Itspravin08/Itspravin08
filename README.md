@@ -9,8 +9,10 @@
 
 <h2>About Me:</h2>
 <p>
-I am a Hardworking engineering post graduated specialised in Computer Science And Application (MCA),
-I Have a strong interest in full-stack web development, Software development and Machine Learning .</p>
+  Passionate About Web Development and Machine Learning, Goal Is To Achieve A Good Position By Doing
+Satisfying Work In The IT Field, Strongly Focused To Complete The Tasks In The Fast-Faced
+Environment.
+</p>
 
 <h2>Tools And Technologies:</h2>
 <p align="center">
