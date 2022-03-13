@@ -19,6 +19,18 @@ Satisfying Work In The IT Field, Strongly Focused To Complete The Tasks In The F
 Environment.
 </p>
 
+
+ ### MY CERTIFICATIONS & ACHIEVEMENTS
+
+>**[HAVE A LOOK!](https://github.com/Amey-Thakur/ACHIEVEMENTS#readme)**
+
+ - **[Python](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Python%20Certificate.pdf#Python)**
+ - **[Machine Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf#Machine Learning)**
+ - **[Data Structures ](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)**
+ - **[Object Oriented Programming](https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering)          <--- Throughout Courses**
+
+
+
 <h2>Tools And Technologies:</h2>
 <p align="center">
   
