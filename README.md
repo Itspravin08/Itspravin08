@@ -25,9 +25,9 @@ Environment.
 >**[HAVE A LOOK!](https://github.com/Amey-Thakur/ACHIEVEMENTS#readme)**
 
  - **[Python](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Python%20Certificate.pdf#Python)**
- - **[Machine Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf#Machine Learning)**
- - **[Data Structures ](https://github.com/Amey-Thakur/ACHIEVEMENTS#eduonix)**
- - **[Object Oriented Programming](https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering)          <--- Throughout Courses**
+ - **[Machine_Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf#Machine_Learning)**
+ - **[Data_Structures ](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Data%20Structures%20in%20Python%20Certificate.pdf#Data_Structures)**
+ - **[OOP](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Object%20Oriented%20Programming%20Certificate.pdf#OOP)          <--- Throughout Courses**
 
 
 
