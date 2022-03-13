@@ -22,7 +22,7 @@ Environment.
 
  ### MY CERTIFICATIONS & PROJECTS
 
->**[HAVE A LOOK!](https://github.com/Amey-Thakur/ACHIEVEMENTS#readme)**
+>**[HAVE A LOOK!](https://github.com/Itspravin08/PROJECTS/blob/main/README.md#readme)**
 
  - **[Python](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Python%20Certificate.pdf#Python)**
  - **[Machine_Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf#Machine_Learning)**
