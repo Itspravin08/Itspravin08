@@ -78,3 +78,8 @@ Environment.
 
 ![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itspravin08&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itspravin08&layout=compact&theme=highcontrast)](https://github.com/Itspravin08/github-readme-stats)
+
+**<p align="center"> <b> THANK YOU FOR YOUR VISIT <b> </p>**
+
+**<p align="center"> <b> HAVE A GREAT TIME! <b> </p>**
+
