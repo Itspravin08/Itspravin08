@@ -91,7 +91,23 @@ Environment.
 ![Pravin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itspravin08&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itspravin08&layout=compact&theme=highcontrast)](https://github.com/Itspravin08/github-readme-stats)
 
-**<p align="center"> <b> THANK YOU FOR YOUR VISIT <b> </p>**
 
-**<p align="center"> <b> HAVE A GREAT TIME! <b> </p>**
+
+
+
+
+
+### WEBSITES & SOCIAL LINKS
+
+[![Instagram](https://user-images.githubusercontent.com/54937357/128647103-fc9fe915-e8b1-4152-b5d8-51b42933953a.jpg)](https://www.instagram.com/its_pravin_official/) &nbsp; &nbsp; &nbsp;
+[![facebook](https://user-images.githubusercontent.com/54937357/127763744-3a5c9e3d-16b0-4633-a462-054c054830f4.png)]() &nbsp; &nbsp; &nbsp;
+[![github](https://user-images.githubusercontent.com/54937357/126553108-d50d51f3-5d73-46a9-bd47-9ce55eae1d4c.png)](https://www.github.com/Itspravin08) &nbsp; &nbsp; &nbsp;
+
+[![Instagram](https://user-images.githubusercontent.com/54937357/128647103-fc9fe915-e8b1-4152-b5d8-51b42933953a.jpg)](https://www.instagram.com/its_pravin_official/) &nbsp; &nbsp; &nbsp;
+[![kaggle](https://user-images.githubusercontent.com/54937357/126513065-fc04f954-a3b4-4e9d-878b-92b6c0d61753.jpg)](https://www.kaggle.com/pravinchougale15) &nbsp; &nbsp; &nbsp;
+[![Linked in](https://user-images.githubusercontent.com/54937357/126513520-a9a3a301-101c-4e39-ab00-a2ec114da8e7.png)](https://www.linkedin.com/in/pravin08/) &nbsp; &nbsp; &nbsp;
+
+[![Telegram](https://user-images.githubusercontent.com/54937357/126516748-eeb985b4-1341-4e6d-9cf1-d3f0d8ec6a91.jpg)]() &nbsp; &nbsp; &nbsp;
+
+
 
