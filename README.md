@@ -107,9 +107,9 @@ Environment.
 [![Telegram](https://user-images.githubusercontent.com/54937357/126516748-eeb985b4-1341-4e6d-9cf1-d3f0d8ec6a91.jpg)]() &nbsp; &nbsp; &nbsp;
 
 
-**<p align="center"> <b> THANK YOU FOR YOUR VISIT <b> </p>**
+**<p align="center"> <b><h2> THANK YOU FOR YOUR VISIT</h2> <b> </p>**
 
-**<p align="center"> <b> HAVE A GREAT TIME! <b> </p>**
+**<p align="center"> <b><h1>.HAVE A GREAT TIME! </h1><b> </p>**
 
 ##
 
