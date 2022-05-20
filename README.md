@@ -22,7 +22,7 @@ Environment.
 
  ### MY CERTIFICATIONS & PROJECTS
 
->**[HAVE A LOOK!](https://github.com/Itspravin08/PROJECTS/blob/main/README.md#readme)**
+>**[HAVE A LOOK PROJECTS!](https://github.com/Itspravin08/PROJECTS/blob/main/README.md#readme)**
 
 >**[Resume:](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Pravin's%20Resume.pdf#Resume)**
 
