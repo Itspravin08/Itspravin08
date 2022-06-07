@@ -47,12 +47,18 @@ Environment.
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 </p>
 
 <h2>Machine Learning:</h2>
 <p align="center">
+   
+  ![DL](https://img.shields.io/badge/Deep_Learning-7B42BC?style=for-the-badge&logo=oracle&logoColor=white)
+   
+  ![NLP](https://img.shields.io/badge/Natural_language_processing_(NLP)-F80000?style=for-the-badge&logo=oracle&logoColor=black)
   
+  ![OpenCV2](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23CC0000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
