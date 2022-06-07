@@ -54,7 +54,7 @@ Environment.
 <h2>Machine Learning:</h2>
 <p align="center">
    
-  ![DL](https://img.shields.io/badge/Deep_Learning-7B42BC?style=for-the-badge&logo=oracle&logoColor=white)
+  ![DL](https://img.shields.io/badge/Deep_Learning-%2300f.svg?style=for-the-badge&logo=oracle&logoColor=white)
    
   ![NLP](https://img.shields.io/badge/Natural_language_processing_(NLP)-F80000?style=for-the-badge&logo=oracle&logoColor=black)
   
