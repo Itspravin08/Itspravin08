@@ -10,7 +10,7 @@
 <h2>About Me:</h2>
 
 <p>
-  I'm a MCA student and a self-paced learner who loves to do research and learn new things every day. Committed to successful project rollouts with the ability to work with all types of personalities. Proud team player.
+  I'm a self-paced learner who loves to do research and learn new things every day. Committed to successful project rollouts with the ability to work with all types of personalities. Proud team player.
 </p>  
 
 <p>
