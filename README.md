@@ -14,8 +14,8 @@
 </p>  
 
 <p>
-  I Am Passionate About Web Development and Machine Learning, Goal Is To Achieve A Good Position By Doing
-Satisfying Work In The IT Field, Strongly Focused To Complete The Tasks In The Fast-Faced
+  I Am Passionate About Machine Learning, Goal Is To Achieve A Good Position By Doing
+Satisfying Work, Strongly Focused To Complete The Tasks In The Fast-Faced
 Environment.
 </p>
 
