@@ -1,8 +1,6 @@
 <h1> Hi.. I'm Pravin Chougale </h1>
 <h2>Know More About Me:</h2>
 
-- 🔭 I’m currently exploring ML 🚀.
-- 🌱 I’m currently learning ML and learning about different algorithms 🛠.
 - 🌱 I’m currently working on ML Techonlogy And different algorithms 🛠.
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Linkedin, Gmail.
