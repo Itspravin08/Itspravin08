@@ -10,13 +10,12 @@
 <h2>About Me:</h2>
 
 <p>
-  I'm a self-paced learner who loves to do research and learn new things every day. Committed to successful project rollouts with the ability to work with all types of personalities. Proud team player.
+ Passionate Machine Learning Engineer with strong skills in predictive modeling, deep learning, and model deployment  including KNN , Decision Tree, XGBoost, Ensemble Models, and Deep Learning techniques like CNN, Encoder-Decoder, and Attention Models
+
 </p>  
 
 <p>
-  I Am Passionate About Machine Learning, Goal Is To Achieve A Good Position By Doing
-Satisfying Work, Strongly Focused To Complete The Tasks In The Fast-Faced
-Environment.
+ Seeking to develop scalable AI solutions that solve real-world problems 
 </p>
 
 
