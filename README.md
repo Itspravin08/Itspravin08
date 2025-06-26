@@ -21,12 +21,12 @@
 
 >**[HAVE A LOOK PROJECTS!](https://github.com/Itspravin08/PROJECTS/blob/main/README.md#readme)**
 
->**[Resume:](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Pravin's%20Resume.pdf#Resume)**
+>**[Resume:](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Pravin_Resume.pdf)**
 
- - **[Python](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Python%20Certificate.pdf#Python)**
- - **[Machine_Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf#Machine_Learning)**
- - **[Data_Structures ](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Data%20Structures%20in%20Python%20Certificate.pdf#Data_Structures)**
- - **[Object_Oriented_Programming](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Object%20Oriented%20Programming%20Certificate.pdf#Object_Oriented_Programming)          <--- Throughout Courses**
+ - **[Python](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Python%20Certificate.pdf)**
+ - **[Machine_Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf)**
+ - **[Data_Structures ](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Data%20Structures%20in%20Python%20Certificate.pdf)**
+ - **[Object_Oriented_Programming](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Object%20Oriented%20Programming%20Certificate.pdf)          <--- Throughout Courses**
 
 
 
